@@ -12,12 +12,11 @@
     - 超商條碼
     - Apple Pay
     - Google Pay (須特別申請才能使用)(原Android Pay)
-  - 線上文件網址  https://developers.ecpay.com.tw/?p=2509
+
 
 ## 2. 安裝環境
   - node-v6.11.0-x64  以上
   - ECMA Script6
-  - npm install ecpay_aio_nodejs
  
 
 ## 3. 使用教學
@@ -28,10 +27,6 @@
 ## 4. 聯絡我們
   - 綠界技術服務工程師信箱: techsupport@ecpay.com.tw
 
-### 5.版權宣告
-
-* License: GPLv2 or later
-* License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 
 
